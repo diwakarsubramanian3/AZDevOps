@@ -4,3 +4,4 @@ My To-Do-List
 -Git
 -Git Hub
 -Good chat with trainer
+lunch completed
